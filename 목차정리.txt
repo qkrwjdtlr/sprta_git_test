@@ -1,14 +1,5 @@
 목차 
-[그림 1] 손 배경 추출[15]  
-[그림 2] CNN 이미지 인식    
-[그림 3] CNN 컨볼루션 연산 
-[그림 4] 손 움직임 추적 [15] 
-[그림 5] 손 움직임 제스처 추적 [5] 
-그림[6] 유니티 로고
-[그림 7]  Unity ARFoundation
-[그림 8]  Unity XR Interaction Toolkit                  
-[그림 9] Unity Hand Tracking 
-[그림 10] PC 손객체인식 표 
+
 [그림 11] PC GPU를 활용한 손객체인식 
 그림[12] 카메라 AR인식
 그림[13] VR 카메라인식 오류 
