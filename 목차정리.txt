@@ -1,0 +1,43 @@
+목차 
+[그림 1] 손 배경 추출[15]  
+[그림 2] CNN 이미지 인식    
+[그림 3] CNN 컨볼루션 연산 
+[그림 4] 손 움직임 추적 [15] 
+[그림 5] 손 움직임 제스처 추적 [5] 
+그림[6] 유니티 로고
+[그림 7]  Unity ARFoundation
+[그림 8]  Unity XR Interaction Toolkit                  
+[그림 9] Unity Hand Tracking 
+[그림 10] PC 손객체인식 표 
+[그림 11] PC GPU를 활용한 손객체인식 
+그림[12] 카메라 AR인식
+그림[13] VR 카메라인식 오류 
+그림[14] Unity UDP 손 통신 구현 
+그림[15] Unity ManoMotion 맵핑
+그림[16] XR Interaction Toolkit
+[그림 17] [IP WebCam IP 서버 이용 해서 데이터 통신
+[그림 18] Open Cv를 이용한 손객체 인식
+[그림 19] Open Cv를 이용한 손객체 인식 데이터 전송
+[그림 20]  Open Cv를 이용한 손객체 인식
+[그림 21] Unity Python 데이터 연결
+그림[22] 손 객체 활용 스크립트 
+[그림 23] Unity Oculus Asset Import      
+[그림24] VR 제스처 인식 추가 스크립트
+[그림 25] Oculus 개발자 모드 설정 
+[그림 26] ManoMotion 설정
+그림[27]  ManoMotion SDK tutorial
+그림[28] ManoMotion SDK Unity 연동
+ [그림 29] PC Frame 및 반응성 실험 
+ 그림[30] PC Frame 및 반응성 실험 결과 
+    그림[31] VR  Frame 및 반응성 실험 결과 
+[그림 32] AR  Frame 및 반응성   
+ 그림[33] AR Frame 및 반응성 실험 결과 
+
+
+표[1] Unity 내에서 AR설정하는 방법
+표[2] Unity ManoMotion 구현한 모습
+표[3] Oculus Quest Unity 연동
+
+
+접근성. 안정성 및 신뢰성
+6 /14/  11                 
